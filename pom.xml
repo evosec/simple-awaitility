@@ -5,7 +5,7 @@
 
     <groupId>de.evosec</groupId>
     <artifactId>simple-awaitility</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
     <parent>
